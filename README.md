@@ -1,5 +1,5 @@
 <div>
-  <h2 align="center">¡Hola! Soy Ameli Ruth Diaz Chavez</h2>
+  <h2 align="center">¡Hola! Soy Ameli Diaz Chavez</h2>
   <h3 align="center">Desarrolladora de Software | Lima, Perú</h3>
 </div>
 
